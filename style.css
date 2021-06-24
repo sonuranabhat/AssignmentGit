@@ -1,0 +1,38 @@
+header{
+    text-align: center;
+}
+.social{
+    height:25px;
+    background-color:rgb(66, 64, 64);
+    color: white;
+}
+
+.main-head{
+    font-size: 20px;
+}
+.items{
+    width: auto;
+}
+img{
+    padding-top: 15px;
+    height:400px;
+    width: 750px;
+
+}
+li{
+    font-weight: bold;
+}
+footer{
+    padding-top: 50px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+div{
+    margin-left: 20px;
+}
+p{
+    width: 1000px;
+}
